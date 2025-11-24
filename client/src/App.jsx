@@ -1,4 +1,4 @@
-import Player from "./component/player.jsx";
+import Player from "./component/Player.jsx";
 import useSync from "./utils/syncclient.js";
 import { IoEyeOutline } from "react-icons/io5";
 import { GoAlert } from "react-icons/go";
